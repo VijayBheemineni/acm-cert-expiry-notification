@@ -1,5 +1,5 @@
 # acm-cert-expiry-notification
-This repo code alerts subscribers of the SNS topics when a certificate issued by ACM is going to expire.
+This repo code creates the infrastructure to alert users through email when the AWS ACM issued certificate expires.
 
 # TODO
     - Create SNS Topic :- Implemented
