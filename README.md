@@ -8,6 +8,7 @@ This repo code creates the infrastructure to alert users through email when the 
     - Create Lambda :- Implemented
     - Create Event Bus Rule :- Implemented
     - Test with Sample EVent Bus Rule :- Tested
+    - Automatically renew certificate :- Need to implement this
 
 # Architecture Diagram
 ![ACM Cert Expiration Event Flow](./images/acm_cert_expiration_notification_event_flow.png)
